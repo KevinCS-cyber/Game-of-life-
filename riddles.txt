@@ -1,0 +1,30 @@
+Lucky you!, you found Mufasa's spirit, it is willing to help you but only if you can correctly answer his question:in what year was the lion king released? (year #)|1994
+I may be a lioness, but I’m also a fierce protector. I raised Simba with love and strength, and I’m a queen. Who am I?(single word 1st letter capital)|Nala
+I sing "Hakuna Matata" and I'm the funny one, always full of jokes. I'm the meerkat friend to a warthog together we have a life of fun. Who am I?(single word 1st letter capital)|Timon
+I may look like a warthog, but I’m one of the best friends you’ll ever know. I laugh, I eat, and I live a carefree life. Who am I?(single word, 1st letter capital)|Pumbaa
+I'm a wise old monkey, the keeper of knowledge and lore. With a staff in my hand, I guide Simba to his destiny. Who am I?(single word, 1st letter capital)|Rafiki
+I was once a prince, but I turned into a villain with a cruel heart. I plotted for the throne, and with my brother gone, I played the part. Who am I?(single word, 1st letter capital)|Scar
+I am the fastest swimmer in the African rivers, and though I have a mouthful of sharp teeth, I'm mostly herbivorous. My huge size might make you think I'm a giant, but I'm often seen lounging in the mud. Who am I?(single word lower case, give shortened version of name)|hippo
+My coat is like a fire's glow, with spots that can’t be matched. I’m swift and stealthy, a hunter of the plains, yet my roar is more a whisper than a shout. Who am I?(1 word lowercase)|cheetah
+I have a long, curled horn and can be found in the savanna and desert. I live in small herds, and I am often seen grazing peacefully. But if you threaten me, I will defend with a mighty charge. Who am I(1 word lowercase)|rhino
+I am the number of bits in a byte. What am I? (integer)|8
+I contain instructions but no emotions. When you debug me, I feel no pain. What am I? (single word, lowercase)|code
+I’m a variable, but I don’t change my value. What am I? (single word, lowercase)|constant
+I’m overloaded but not stressed. What am I? (single word, lowercase)|operator
+I take input, process it, and give output, but I’m not human. What am I? (single word, lowercase)|program
+I split problems into smaller parts to solve them efficiently. What am I? (single word, lowercase)|algorithm
+I’m written in code but never executed. What am I? (single word, lowercase)|comment
+I am the C++ operator used to determine the remainder of a division. What am I? (symbol)|%
+I store values sequentially, but I’m not a line of text. What am I? (single word, lowercase)|array
+I’m the place where local variables go to live and die. What am I? (single word, lowercase)|stack
+I’m a single word, but I can bring a function to life. What am I? (single word, lowercase)|main
+I can compare two things, but I don’t judge. What am I? (single word, lowercase)|if
+I start a comment in C++. What am I? (symbol)|//
+I am the number of spaces a tab character is typically equivalent to. What am I? (integer)|4
+I’m called, but I never come. I’m always executed. What am I? (single word, lowercase)|function
+I protect your program from undefined behavior. What am I? (single word, lowercase)|exception
+I’m a condition that never resolves to true or false. What am I? (single word, lowercase)|infinite
+I am the symbol used to access a member of a class. What am I? (symbol)|.
+I’m an array, but you can’t access me with brackets. I’m full of addresses, but I don’t go anywhere. What am I? (single word, lowercase)|pointer
+I can hold multiple functions, but I’m not a list. What am I? (single word, lowercase)|class
+I am the inventor of c++. What is my name?(first last, 1st letter of each word is capital)|Bjarne Stroustrup

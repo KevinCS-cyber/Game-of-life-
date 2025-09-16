@@ -1,0 +1,2 @@
+Winner: Player 1, lion's name: Jabari, age: 5, Total pride points:64800
+Loser: Player 2, lion's name: Akoto, age: 12, Total pride points:47600

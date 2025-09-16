@@ -1,0 +1,9 @@
+playerName|age|strength|stamina|wisdom|pridePoints|translation of what it means
+Jabari|5|500|500|1000|20000|Brave in swahili
+Kenza|8|900|600|600|20000|Treasure in Arabic
+Akoto|12|900|700|500|20000|Strong man in Akan
+Mfalme|7|600|500|900|20000|King in Swahili
+Nyota|18|1000|500|500|20000|Star in Swahili
+Zaki|1|300|700|1000|20000|Lion in Hausa
+Duma|4|400|400|1200|20000|Thunder in Zulu
+Mbali|20|200|800|1000|20000|Flower in Zulu
